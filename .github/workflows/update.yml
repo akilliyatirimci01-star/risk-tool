@@ -1,0 +1,23 @@
+name: Güncelleme Robotu
+on:
+  schedule:
+    - cron: '0 */6 * * *' # 6 saatte bir çalışır
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with: { python-version: '3.9' }
+      - run: pip install -r requirements.txt
+      - run: python risk_engine.py
+      - run: |
+          git config --global user.name "Bot"
+          git config --global user.email "bot@risk.com"
+          git add risk_data.json
+          git commit -m "Veri Guncellendi" || exit 0
+          git push
