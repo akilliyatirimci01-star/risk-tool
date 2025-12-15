@@ -1,1 +1,62 @@
-{}
+{
+    "BTC": {
+        "price": "$89,552.17",
+        "risk_score": 40,
+        "trend": "AYI (D\u00fc\u015f\u00fc\u015f)",
+        "rsi": 57,
+        "rsi_msg": "N\u00f6tr",
+        "low_forecast": "$87,673.89",
+        "high_forecast": "$91,430.45",
+        "volatility": "%2.10"
+    },
+    "ETH": {
+        "price": "$3,136.83",
+        "risk_score": 71,
+        "trend": "AYI (D\u00fc\u015f\u00fc\u015f)",
+        "rsi": 63,
+        "rsi_msg": "N\u00f6tr",
+        "low_forecast": "$3,019.74",
+        "high_forecast": "$3,253.91",
+        "volatility": "%3.73"
+    },
+    "SOL": {
+        "price": "$132.76",
+        "risk_score": 76,
+        "trend": "AYI (D\u00fc\u015f\u00fc\u015f)",
+        "rsi": 56,
+        "rsi_msg": "N\u00f6tr",
+        "low_forecast": "$127.47",
+        "high_forecast": "$138.05",
+        "volatility": "%3.99"
+    },
+    "AVAX": {
+        "price": "$13.12",
+        "risk_score": 94,
+        "trend": "AYI (D\u00fc\u015f\u00fc\u015f)",
+        "rsi": 52,
+        "rsi_msg": "N\u00f6tr",
+        "low_forecast": "$12.47",
+        "high_forecast": "$13.77",
+        "volatility": "%4.97"
+    },
+    "DOGE": {
+        "price": "$0.14",
+        "risk_score": 91,
+        "trend": "AYI (D\u00fc\u015f\u00fc\u015f)",
+        "rsi": 50,
+        "rsi_msg": "N\u00f6tr",
+        "low_forecast": "$0.13",
+        "high_forecast": "$0.14",
+        "volatility": "%4.77"
+    },
+    "XRP": {
+        "price": "$1.97",
+        "risk_score": 71,
+        "trend": "AYI (D\u00fc\u015f\u00fc\u015f)",
+        "rsi": 44,
+        "rsi_msg": "N\u00f6tr",
+        "low_forecast": "$1.89",
+        "high_forecast": "$2.04",
+        "volatility": "%3.72"
+    }
+}
