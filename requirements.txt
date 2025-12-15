@@ -1,4 +1,3 @@
-yfinance
-arch
+requests
 pandas
 numpy
