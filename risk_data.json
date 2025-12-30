@@ -1,13 +1,13 @@
 {
     "BTC": {
-        "price": "$87,226.00",
-        "change_pct": -1.246454597962002,
+        "price": "$87,332.00",
+        "change_pct": -2.773783061047263,
         "risk_score": 19,
         "trend": "D\u00dc\u015e\u00dc\u015e",
-        "signal": "BEKLE",
-        "signal_color": "#f39c12",
-        "stop_loss": "$83,748.14",
-        "take_profit": "$92,442.79",
+        "signal": "D\u0130P ARAYI\u015eI",
+        "signal_color": "#e74c3c",
+        "stop_loss": "$83,848.97",
+        "take_profit": "$92,556.55",
         "position_size": "%10 (G\u00fcvenli)",
         "history_prices": [
             90406.28448571145,
@@ -40,7 +40,7 @@
             87807.003210775,
             87822.90829076794,
             87156.56266080117,
-            87223.08876316395
+            87336.77619185405
         ],
         "history_dates": [
             "1 G\u00fcn",
@@ -77,14 +77,14 @@
         ]
     },
     "ETH": {
-        "price": "$2,934.59",
-        "change_pct": -1.6049102936821502,
+        "price": "$2,944.61",
+        "change_pct": -2.92223987336743,
         "risk_score": 32,
-        "trend": "D\u00dc\u015e\u00dc\u015e",
-        "signal": "BEKLE",
-        "signal_color": "#f39c12",
-        "stop_loss": "$2,746.73",
-        "take_profit": "$3,216.38",
+        "trend": "Y\u00dcKSEL\u0130\u015e",
+        "signal": "N\u00d6TR",
+        "signal_color": "#95a5a6",
+        "stop_loss": "$2,756.07",
+        "take_profit": "$3,227.42",
         "position_size": "%10 (G\u00fcvenli)",
         "history_prices": [
             2992.8341859495977,
@@ -117,7 +117,7 @@
             2948.8621262576116,
             2947.8597605720547,
             2934.215601758931,
-            2934.416209683098
+            2944.4243560629566
         ],
         "history_dates": [
             "1 G\u00fcn",
@@ -154,14 +154,14 @@
         ]
     },
     "SOL": {
-        "price": "$123.15",
-        "change_pct": -4.577849039297365,
+        "price": "$123.59",
+        "change_pct": -3.2200912831638466,
         "risk_score": 31,
         "trend": "D\u00dc\u015e\u00dc\u015e",
         "signal": "D\u0130P ARAYI\u015eI",
         "signal_color": "#e74c3c",
-        "stop_loss": "$115.37",
-        "take_profit": "$134.82",
+        "stop_loss": "$115.78",
+        "take_profit": "$135.31",
         "position_size": "%10 (G\u00fcvenli)",
         "history_prices": [
             134.57716421907872,
@@ -194,7 +194,7 @@
             124.63847125670826,
             125.19116108131975,
             123.09934938681572,
-            123.14586173525326
+            123.58977204057376
         ],
         "history_dates": [
             "1 G\u00fcn",
