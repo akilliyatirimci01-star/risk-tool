@@ -1,13 +1,13 @@
 {
     "BTC": {
-        "price": "$91,971.00",
-        "change_pct": -1.969741606240975,
+        "price": "$91,322.00",
+        "change_pct": -0.6624116815352417,
         "risk_score": 14,
         "trend": "Y\u00dcKSEL\u0130\u015e",
-        "signal": "N\u00d6TR",
-        "signal_color": "#95a5a6",
-        "stop_loss": "$89,324.64",
-        "take_profit": "$95,940.53",
+        "signal": "G\u00dc\u00c7L\u00dc AL",
+        "signal_color": "#27ae60",
+        "stop_loss": "$88,629.42",
+        "take_profit": "$95,360.87",
         "position_size": "%10 (G\u00fcvenli)",
         "history_prices": [
             90618.0535204608,
@@ -40,7 +40,7 @@
             91373.21588108438,
             93926.7956485658,
             93666.86387314305,
-            91968.3410041885
+            91329.98285978883
         ],
         "history_dates": [
             "1 G\u00fcn",
@@ -77,14 +77,14 @@
         ]
     },
     "ETH": {
-        "price": "$3,214.08",
-        "change_pct": -0.75268859183879,
-        "risk_score": 24,
+        "price": "$3,157.79",
+        "change_pct": -1.9307903433574205,
+        "risk_score": 25,
         "trend": "Y\u00dcKSEL\u0130\u015e",
-        "signal": "G\u00dc\u00c7L\u00dc AL",
-        "signal_color": "#27ae60",
-        "stop_loss": "$3,055.57",
-        "take_profit": "$3,451.84",
+        "signal": "N\u00d6TR",
+        "signal_color": "#95a5a6",
+        "stop_loss": "$2,997.00",
+        "take_profit": "$3,398.98",
         "position_size": "%10 (G\u00fcvenli)",
         "history_prices": [
             3125.321462183988,
@@ -117,7 +117,7 @@
             3139.057041912684,
             3228.2962247842056,
             3295.101927879638,
-            3213.8844399556756
+            3157.6670289160074
         ],
         "history_dates": [
             "1 G\u00fcn",
@@ -154,14 +154,14 @@
         ]
     },
     "SOL": {
-        "price": "$137.77",
-        "change_pct": -0.8972672140719744,
+        "price": "$135.55",
+        "change_pct": -1.3067621520799408,
         "risk_score": 23,
         "trend": "Y\u00dcKSEL\u0130\u015e",
-        "signal": "G\u00dc\u00c7L\u00dc AL",
-        "signal_color": "#27ae60",
-        "stop_loss": "$131.41",
-        "take_profit": "$147.30",
+        "signal": "N\u00d6TR",
+        "signal_color": "#95a5a6",
+        "stop_loss": "$129.09",
+        "take_profit": "$145.24",
         "position_size": "%10 (G\u00fcvenli)",
         "history_prices": [
             133.2876975493966,
@@ -194,7 +194,7 @@
             133.86037430010327,
             138.14624626670062,
             141.10228180261717,
-            137.7673147318827
+            135.5443830770352
         ],
         "history_dates": [
             "1 G\u00fcn",
