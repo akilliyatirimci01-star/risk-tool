@@ -1,13 +1,13 @@
 {
     "BTC": {
-        "price": "$67,958.00",
-        "change_pct": -0.30001104990791444,
+        "price": "$67,321.00",
+        "change_pct": -1.7525466542963146,
         "risk_score": 41,
         "trend": "D\u00dc\u015e\u00dc\u015e",
         "signal": "BEKLE",
         "signal_color": "#f39c12",
-        "stop_loss": "$62,342.62",
-        "take_profit": "$76,381.07",
+        "stop_loss": "$61,761.84",
+        "take_profit": "$75,659.74",
         "position_size": "%5 (Orta)",
         "history_prices": [
             89412.39849953113,
@@ -40,7 +40,7 @@
             66918.68417467622,
             67970.29403133177,
             67977.90904199042,
-            67954.59573154904
+            67322.23002688766
         ],
         "history_dates": [
             "1 G\u00fcn",
@@ -77,14 +77,14 @@
         ]
     },
     "ETH": {
-        "price": "$1,966.44",
-        "change_pct": -0.31846270532529186,
+        "price": "$1,940.72",
+        "change_pct": -2.5153224956645652,
         "risk_score": 51,
         "trend": "D\u00dc\u015e\u00dc\u015e",
-        "signal": "BEKLE",
-        "signal_color": "#f39c12",
-        "stop_loss": "$1,763.94",
-        "take_profit": "$2,270.20",
+        "signal": "D\u0130P ARAYI\u015eI",
+        "signal_color": "#e74c3c",
+        "stop_loss": "$1,740.94",
+        "take_profit": "$2,240.40",
         "position_size": "%5 (Orta)",
         "history_prices": [
             2950.9128485703054,
@@ -117,7 +117,7 @@
             1946.9092613594232,
             1967.8121148578189,
             1973.6643315860636,
-            1966.3340635149448
+            1940.7193463803806
         ],
         "history_dates": [
             "1 G\u00fcn",
