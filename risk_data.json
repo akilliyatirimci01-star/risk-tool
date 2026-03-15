@@ -1,13 +1,13 @@
 {
     "BTC": {
-        "price": "$71,455.00",
-        "change_pct": 1.1355976342041532,
+        "price": "$71,643.00",
+        "change_pct": 1.2994076708734617,
         "risk_score": 25,
         "trend": "Y\u00dcKSEL\u0130\u015e",
         "signal": "G\u00dc\u00c7L\u00dc AL",
         "signal_color": "#27ae60",
-        "stop_loss": "$67,780.03",
-        "take_profit": "$76,967.45",
+        "stop_loss": "$67,956.80",
+        "take_profit": "$77,172.31",
         "position_size": "%10 (G\u00fcvenli)",
         "history_prices": [
             68838.87490510389,
@@ -40,7 +40,7 @@
             70544.42535461926,
             70965.28228600459,
             71217.1010283798,
-            71452.4485979896
+            71643.54971928897
         ],
         "history_dates": [
             "1 G\u00fcn",
@@ -77,14 +77,14 @@
         ]
     },
     "ETH": {
-        "price": "$2,107.70",
-        "change_pct": 1.397315479289233,
+        "price": "$2,109.65",
+        "change_pct": 1.67952576392256,
         "risk_score": 34,
         "trend": "Y\u00dcKSEL\u0130\u015e",
         "signal": "G\u00dc\u00c7L\u00dc AL",
         "signal_color": "#27ae60",
-        "stop_loss": "$1,962.79",
-        "take_profit": "$2,325.07",
+        "stop_loss": "$1,964.58",
+        "take_profit": "$2,327.25",
         "position_size": "%10 (G\u00fcvenli)",
         "history_prices": [
             2047.3626742531244,
@@ -117,7 +117,7 @@
             2076.5162283684745,
             2093.00633968562,
             2096.556369062344,
-            2107.6444954811027
+            2109.794872392036
         ],
         "history_dates": [
             "1 G\u00fcn",
