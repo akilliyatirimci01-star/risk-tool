@@ -1,13 +1,13 @@
 {
     "BTC": {
-        "price": "$71,021.00",
-        "change_pct": -0.48605496736125003,
+        "price": "$70,989.00",
+        "change_pct": -1.1983034431600958,
         "risk_score": 20,
         "trend": "Y\u00dcKSEL\u0130\u015e",
-        "signal": "G\u00dc\u00c7L\u00dc AL",
-        "signal_color": "#27ae60",
-        "stop_loss": "$68,049.43",
-        "take_profit": "$75,478.36",
+        "signal": "N\u00d6TR",
+        "signal_color": "#95a5a6",
+        "stop_loss": "$68,018.52",
+        "take_profit": "$75,444.73",
         "position_size": "%10 (G\u00fcvenli)",
         "history_prices": [
             69883.00887579883,
@@ -40,7 +40,7 @@
             68864.23452757328,
             71975.62171045873,
             71117.07713411814,
-            71027.23507238016
+            70993.53591403084
         ],
         "history_dates": [
             "1 G\u00fcn",
@@ -77,14 +77,14 @@
         ]
     },
     "ETH": {
-        "price": "$2,182.16",
-        "change_pct": -2.308501806381953,
+        "price": "$2,181.80",
+        "change_pct": -3.3641059990015902,
         "risk_score": 30,
         "trend": "Y\u00dcKSEL\u0130\u015e",
         "signal": "N\u00d6TR",
         "signal_color": "#95a5a6",
-        "stop_loss": "$2,047.71",
-        "take_profit": "$2,383.83",
+        "stop_loss": "$2,047.37",
+        "take_profit": "$2,383.45",
         "position_size": "%10 (G\u00fcvenli)",
         "history_prices": [
             2035.2089486782504,
@@ -117,7 +117,7 @@
             2107.828320222534,
             2241.8159903072574,
             2190.478568186725,
-            2182.38549521214
+            2181.9676804030596
         ],
         "history_dates": [
             "1 G\u00fcn",
@@ -154,14 +154,14 @@
         ]
     },
     "SOL": {
-        "price": "$82.35",
-        "change_pct": -2.5701972560308826,
+        "price": "$82.27",
+        "change_pct": -2.745728658899995,
         "risk_score": 29,
         "trend": "Y\u00dcKSEL\u0130\u015e",
         "signal": "N\u00d6TR",
         "signal_color": "#95a5a6",
-        "stop_loss": "$77.43",
-        "take_profit": "$89.72",
+        "stop_loss": "$77.36",
+        "take_profit": "$89.64",
         "position_size": "%10 (G\u00fcvenli)",
         "history_prices": [
             85.74645257058538,
@@ -194,7 +194,7 @@
             80.05090350348496,
             85.71966892972841,
             82.59825679035208,
-            82.3484632074118
+            82.27253730581226
         ],
         "history_dates": [
             "1 G\u00fcn",
