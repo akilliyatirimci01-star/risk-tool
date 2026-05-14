@@ -1,13 +1,13 @@
 {
     "BTC": {
-        "price": "$79,931.00",
-        "change_pct": 0.34008451050000205,
-        "risk_score": 14,
-        "trend": "D\u00dc\u015e\u00dc\u015e",
-        "signal": "BEKLE",
-        "signal_color": "#f39c12",
-        "stop_loss": "$77,614.91",
-        "take_profit": "$83,405.14",
+        "price": "$81,421.00",
+        "change_pct": 2.422187819037254,
+        "risk_score": 15,
+        "trend": "Y\u00dcKSEL\u0130\u015e",
+        "signal": "G\u00dc\u00c7L\u00dc AL",
+        "signal_color": "#27ae60",
+        "stop_loss": "$78,956.97",
+        "take_profit": "$85,117.04",
         "position_size": "%10 (G\u00fcvenli)",
         "history_prices": [
             74181.10807228928,
@@ -40,7 +40,7 @@
             81725.20771701908,
             80480.88600120835,
             79277.8045183824,
-            79960.88796720814
+            81426.4331729427
         ],
         "history_dates": [
             "1 G\u00fcn",
@@ -77,14 +77,14 @@
         ]
     },
     "ETH": {
-        "price": "$2,255.72",
-        "change_pct": -0.25425440433089375,
+        "price": "$2,299.69",
+        "change_pct": 1.952069562310927,
         "risk_score": 17,
         "trend": "D\u00dc\u015e\u00dc\u015e",
         "signal": "BEKLE",
         "signal_color": "#f39c12",
-        "stop_loss": "$2,176.16",
-        "take_profit": "$2,375.05",
+        "stop_loss": "$2,216.93",
+        "take_profit": "$2,423.83",
         "position_size": "%10 (G\u00fcvenli)",
         "history_prices": [
             2323.217827319875,
@@ -117,7 +117,7 @@
             2339.603401986634,
             2274.643164858102,
             2257.6171092097293,
-            2257.149732590425
+            2299.9680279220543
         ],
         "history_dates": [
             "1 G\u00fcn",
