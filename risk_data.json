@@ -1,13 +1,13 @@
 {
     "BTC": {
-        "price": "$63,967.00",
-        "change_pct": 1.7113631431864489,
+        "price": "$63,977.00",
+        "change_pct": 1.8438564045493537,
         "risk_score": 16,
         "trend": "Y\u00dcKSEL\u0130\u015e",
         "signal": "G\u00dc\u00c7L\u00dc AL",
         "signal_color": "#27ae60",
-        "stop_loss": "$61,799.63",
-        "take_profit": "$67,218.06",
+        "stop_loss": "$61,809.28",
+        "take_profit": "$67,228.57",
         "position_size": "%10 (G\u00fcvenli)",
         "history_prices": [
             62900.22709317204,
@@ -40,7 +40,7 @@
             64722.05792295125,
             63788.92901827884,
             63925.50933708712,
-            63964.62335347281
+            63983.08212932036
         ],
         "history_dates": [
             "1 G\u00fcn",
@@ -77,14 +77,14 @@
         ]
     },
     "ETH": {
-        "price": "$1,842.78",
-        "change_pct": 0.753604751922413,
+        "price": "$1,839.81",
+        "change_pct": 1.4308503330384954,
         "risk_score": 24,
         "trend": "Y\u00dcKSEL\u0130\u015e",
         "signal": "G\u00dc\u00c7L\u00dc AL",
         "signal_color": "#27ae60",
-        "stop_loss": "$1,752.37",
-        "take_profit": "$1,978.40",
+        "stop_loss": "$1,749.52",
+        "take_profit": "$1,975.25",
         "position_size": "%10 (G\u00fcvenli)",
         "history_prices": [
             1709.5978673943596,
@@ -117,7 +117,7 @@
             1917.3506207906617,
             1863.082611565993,
             1841.3562888357803,
-            1842.7771196455853
+            1839.5713282416577
         ],
         "history_dates": [
             "1 G\u00fcn",
@@ -154,14 +154,14 @@
         ]
     },
     "SOL": {
-        "price": "$74.95",
-        "change_pct": 0.42224928297286274,
+        "price": "$74.68",
+        "change_pct": 1.3774394574015467,
         "risk_score": 27,
         "trend": "D\u00dc\u015e\u00dc\u015e",
         "signal": "BEKLE",
         "signal_color": "#f39c12",
-        "stop_loss": "$70.85",
-        "take_profit": "$81.09",
+        "stop_loss": "$70.59",
+        "take_profit": "$80.81",
         "position_size": "%10 (G\u00fcvenli)",
         "history_prices": [
             69.6417248770243,
@@ -194,7 +194,7 @@
             77.25088299742082,
             75.27439904916496,
             74.99495561093624,
-            74.94670948395984
+            74.67761696310865
         ],
         "history_dates": [
             "1 G\u00fcn",
